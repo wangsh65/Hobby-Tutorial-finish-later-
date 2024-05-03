@@ -16,6 +16,32 @@
 		18FB80AA2B90E881002FAE1E /* Hobby_Tutorial_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FB80A92B90E881002FAE1E /* Hobby_Tutorial_Tests.swift */; };
 		18FB80B42B90E881002FAE1E /* Hobby_Tutorial_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FB80B32B90E881002FAE1E /* Hobby_Tutorial_UITests.swift */; };
 		18FB80B62B90E881002FAE1E /* Hobby_Tutorial_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FB80B52B90E881002FAE1E /* Hobby_Tutorial_UITestsLaunchTests.swift */; };
+		E72EDF7A2BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF722BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 */; };
+		E72EDF7B2BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF722BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 */; };
+		E72EDF7C2BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF732BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 */; };
+		E72EDF7D2BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF732BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 */; };
+		E72EDF7E2BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF742BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 */; };
+		E72EDF7F2BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF742BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 */; };
+		E72EDF802BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF752BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 */; };
+		E72EDF812BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF752BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 */; };
+		E72EDF822BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF762BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 */; };
+		E72EDF832BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF762BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 */; };
+		E72EDF842BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF772BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 */; };
+		E72EDF852BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF772BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 */; };
+		E72EDF8A2BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF872BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 */; };
+		E72EDF8B2BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF872BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 */; };
+		E72EDF8C2BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF882BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 */; };
+		E72EDF8D2BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF882BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 */; };
+		E72EDF8E2BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF892BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 */; };
+		E72EDF8F2BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E72EDF892BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 */; };
+		E753580E2BE0260900027CC1 /* song3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E753580D2BE0260900027CC1 /* song3.mp3 */; };
+		E7FF977F2BE26D45007F3362 /* afterlike.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF977E2BE26D45007F3362 /* afterlike.mp3 */; };
+		E7FF97812BE26F22007F3362 /* audio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FF97802BE26F22007F3362 /* audio1.swift */; };
+		E7FF97832BE26FDA007F3362 /* eleven.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF97822BE26FDA007F3362 /* eleven.mp3 */; };
+		E7FF97852BE26FE0007F3362 /* Iam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF97842BE26FE0007F3362 /* Iam.mp3 */; };
+		E7FF97872BE26FE4007F3362 /* song5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF97862BE26FE4007F3362 /* song5.mp3 */; };
+		E7FF97892BE26FE8007F3362 /* song6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF97882BE26FE8007F3362 /* song6.mp3 */; };
+		E7FF978B2BE26FEC007F3362 /* song7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E7FF978A2BE26FEC007F3362 /* song7.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +75,23 @@
 		18FB80AF2B90E881002FAE1E /* Hobby Tutorial.UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hobby Tutorial.UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FB80B32B90E881002FAE1E /* Hobby_Tutorial_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hobby_Tutorial_UITests.swift; sourceTree = "<group>"; };
 		18FB80B52B90E881002FAE1E /* Hobby_Tutorial_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hobby_Tutorial_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E72EDF722BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - ELEVEN.mp3"; sourceTree = "<group>"; };
+		E72EDF732BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - After LIKE.mp3"; sourceTree = "<group>"; };
+		E72EDF742BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - Off The Record.mp3"; sourceTree = "<group>"; };
+		E72EDF752BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - Baddie.mp3"; sourceTree = "<group>"; };
+		E72EDF762BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - LOVE DIVE.mp3"; sourceTree = "<group>"; };
+		E72EDF772BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - Kitsch.mp3"; sourceTree = "<group>"; };
+		E72EDF872BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - WAVE.mp3"; sourceTree = "<group>"; };
+		E72EDF882BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - Queen of Hearts.mp3"; sourceTree = "<group>"; };
+		E72EDF892BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "spotifydown.com - My Satisfaction.mp3"; sourceTree = "<group>"; };
+		E753580D2BE0260900027CC1 /* song3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song3.mp3; sourceTree = "<group>"; };
+		E7FF977E2BE26D45007F3362 /* afterlike.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = afterlike.mp3; sourceTree = "<group>"; };
+		E7FF97802BE26F22007F3362 /* audio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = audio1.swift; sourceTree = "<group>"; };
+		E7FF97822BE26FDA007F3362 /* eleven.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = eleven.mp3; sourceTree = "<group>"; };
+		E7FF97842BE26FE0007F3362 /* Iam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Iam.mp3; sourceTree = "<group>"; };
+		E7FF97862BE26FE4007F3362 /* song5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song5.mp3; sourceTree = "<group>"; };
+		E7FF97882BE26FE8007F3362 /* song6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song6.mp3; sourceTree = "<group>"; };
+		E7FF978A2BE26FEC007F3362 /* song7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song7.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +146,19 @@
 				18FB80942B90E87F002FAE1E /* SceneDelegate.swift */,
 				18FB80962B90E87F002FAE1E /* ViewController.swift */,
 				18FB80982B90E87F002FAE1E /* Main.storyboard */,
+				E7FF97802BE26F22007F3362 /* audio1.swift */,
 				18FB809B2B90E881002FAE1E /* Assets.xcassets */,
 				18FB809D2B90E881002FAE1E /* LaunchScreen.storyboard */,
+				E7FF978A2BE26FEC007F3362 /* song7.mp3 */,
+				E7FF97882BE26FE8007F3362 /* song6.mp3 */,
+				E7FF97842BE26FE0007F3362 /* Iam.mp3 */,
+				E7FF97862BE26FE4007F3362 /* song5.mp3 */,
+				E7FF977E2BE26D45007F3362 /* afterlike.mp3 */,
+				E7FF97822BE26FDA007F3362 /* eleven.mp3 */,
+				E753580D2BE0260900027CC1 /* song3.mp3 */,
 				18FB80A02B90E881002FAE1E /* Info.plist */,
+				E72EDF702BD6EBA400BEC6A0 /* ive songs 1 */,
+				E72EDF862BD6EBE200BEC6A0 /* ive song2 */,
 			);
 			path = "Hobby Tutorial.";
 			sourceTree = "<group>";
@@ -125,6 +178,29 @@
 				18FB80B52B90E881002FAE1E /* Hobby_Tutorial_UITestsLaunchTests.swift */,
 			);
 			path = "Hobby Tutorial.UITests";
+			sourceTree = "<group>";
+		};
+		E72EDF702BD6EBA400BEC6A0 /* ive songs 1 */ = {
+			isa = PBXGroup;
+			children = (
+				E72EDF722BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 */,
+				E72EDF732BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 */,
+				E72EDF742BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 */,
+				E72EDF752BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 */,
+				E72EDF762BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 */,
+				E72EDF772BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 */,
+			);
+			path = "ive songs 1";
+			sourceTree = "<group>";
+		};
+		E72EDF862BD6EBE200BEC6A0 /* ive song2 */ = {
+			isa = PBXGroup;
+			children = (
+				E72EDF872BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 */,
+				E72EDF882BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 */,
+				E72EDF892BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 */,
+			);
+			path = "ive song2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -206,7 +282,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18FB808A2B90E87F002FAE1E /* Build configuration list for PBXProject "Hobby Tutorial." */;
+			buildConfigurationList = 18FB808A2B90E87F002FAE1E /* Build configuration list for PBXProject "App" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -232,8 +308,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				18FB809F2B90E881002FAE1E /* LaunchScreen.storyboard in Resources */,
+				E753580E2BE0260900027CC1 /* song3.mp3 in Resources */,
+				E7FF97872BE26FE4007F3362 /* song5.mp3 in Resources */,
 				18FB809C2B90E881002FAE1E /* Assets.xcassets in Resources */,
+				E72EDF842BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 in Resources */,
+				E7FF97832BE26FDA007F3362 /* eleven.mp3 in Resources */,
+				E7FF978B2BE26FEC007F3362 /* song7.mp3 in Resources */,
+				E72EDF7E2BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 in Resources */,
+				E72EDF802BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 in Resources */,
 				18FB809A2B90E87F002FAE1E /* Main.storyboard in Resources */,
+				E72EDF8A2BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 in Resources */,
+				E7FF97892BE26FE8007F3362 /* song6.mp3 in Resources */,
+				E72EDF8E2BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 in Resources */,
+				E72EDF822BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 in Resources */,
+				E72EDF7A2BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 in Resources */,
+				E7FF97852BE26FE0007F3362 /* Iam.mp3 in Resources */,
+				E72EDF8C2BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 in Resources */,
+				E7FF977F2BE26D45007F3362 /* afterlike.mp3 in Resources */,
+				E72EDF7C2BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +340,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E72EDF8D2BD6EBE200BEC6A0 /* spotifydown.com - Queen of Hearts.mp3 in Resources */,
+				E72EDF8F2BD6EBE200BEC6A0 /* spotifydown.com - My Satisfaction.mp3 in Resources */,
+				E72EDF852BD6EBA400BEC6A0 /* spotifydown.com - Kitsch.mp3 in Resources */,
+				E72EDF812BD6EBA400BEC6A0 /* spotifydown.com - Baddie.mp3 in Resources */,
+				E72EDF8B2BD6EBE200BEC6A0 /* spotifydown.com - WAVE.mp3 in Resources */,
+				E72EDF7F2BD6EBA400BEC6A0 /* spotifydown.com - Off The Record.mp3 in Resources */,
+				E72EDF7D2BD6EBA400BEC6A0 /* spotifydown.com - After LIKE.mp3 in Resources */,
+				E72EDF7B2BD6EBA400BEC6A0 /* spotifydown.com - ELEVEN.mp3 in Resources */,
+				E72EDF832BD6EBA400BEC6A0 /* spotifydown.com - LOVE DIVE.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +361,7 @@
 			files = (
 				18FB80972B90E87F002FAE1E /* ViewController.swift in Sources */,
 				18FB80932B90E87F002FAE1E /* AppDelegate.swift in Sources */,
+				E7FF97812BE26F22007F3362 /* audio1.swift in Sources */,
 				18FB80952B90E87F002FAE1E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -453,9 +555,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "ssfs.org.Hobby-Tutorial-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -480,9 +584,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "ssfs.org.Hobby-Tutorial-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -581,7 +687,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18FB808A2B90E87F002FAE1E /* Build configuration list for PBXProject "Hobby Tutorial." */ = {
+		18FB808A2B90E87F002FAE1E /* Build configuration list for PBXProject "App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18FB80B72B90E881002FAE1E /* Debug */,
