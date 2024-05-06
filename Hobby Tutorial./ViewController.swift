@@ -10,15 +10,24 @@ import SwiftUI
 import UIKit
 
 
+
+
 class ViewController: UIViewController {
     var audio1 : String?
     
-    @IBAction func song1(_ sender: UIButton) {
-        audio1 = " afterlike"
-        performSegue(withIdentifier: "segueToAudioPlayer", sender: nil)
-        
-        
+    struct SwiftUIView: View {
+        var body: some View {
+            Text("Hello, SwiftUI!")
+        }
     }
+
+    
+    @IBAction func song1(_ sender: UIButton) {
+        let audio1 = UIHostingController(rootView: SwiftUIView())
+                self.present(audio1, animated: true, completion: nil)
+
+    }
+    
     
     @IBAction func song2(_ sender: UIButton) {
     }

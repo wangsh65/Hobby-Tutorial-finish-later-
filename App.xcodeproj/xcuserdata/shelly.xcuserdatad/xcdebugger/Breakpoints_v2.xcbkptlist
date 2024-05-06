@@ -14,10 +14,42 @@
             filePath = "Hobby Tutorial./ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F50FED4-54B8-4A29-9717-DF724FEF8570 - f7acb71a2e17292e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hobby_Tutorial_.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Hobby Tutorial."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shelly/Desktop/LearningXcode/Hobby-Tutorial-finish-later-/Hobby%20Tutorial./ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "8F50FED4-54B8-4A29-9717-DF724FEF8570 - f7acb71a2e1729c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hobby_Tutorial_.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Hobby Tutorial."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shelly/Desktop/LearningXcode/Hobby-Tutorial-finish-later-/Hobby%20Tutorial./ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

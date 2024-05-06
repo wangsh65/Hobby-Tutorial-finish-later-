@@ -65,7 +65,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Song1"/>
                                 <connections>
-                                    <action selector="song1:" destination="8YR-10-cE2" eventType="touchUpInside" id="czw-ao-cFq"/>
+                                    <action selector="song1:" destination="8YR-10-cE2" eventType="touchUpInside" id="JCZ-lx-VMh"/>
                                 </connections>
                             </button>
                         </subviews>
